@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2023-12-11
 type: landing
 
 design:
@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Politeknik Brunei Karate Club
+      text: Karate Archive from 2021 until Now
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
