@@ -23,7 +23,7 @@ sections:
         text: "Welcome!"
         link:
           text: "A word from the club's founder"
-          url: "/blog/welcome/"
+          url: "https://ainakar.github.io/pb-karate/blog/welcome/"
     design:
     #   spacing:
     #     padding: [0, 0, 0, 0]
