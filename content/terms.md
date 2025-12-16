@@ -1,7 +1,7 @@
 ---
 title: Terms of Service
-date: 2023-12-01
+date: 2025-12-11
 share: false
 ---
 
-Add your company legal terms here...
+This website is a non-commercial, community-based project intended for informational and educational purposes.
