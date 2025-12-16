@@ -6,11 +6,14 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: Features
-    url: /#features
-    weight: 20
-  - name: Solutions
-    url: /#solutions
+  # - name: Features
+  #   url: /#features
+  #   weight: 20
+  - name: Our Athletes
+    url: /#athletes
+    weight: 30
+  - name: Our Members
+    url: /#members
     weight: 30
   - name: Resources
     weight: 40

@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-12-11
+date: 2025-12-11
 type: landing
 
 design:
@@ -40,53 +40,53 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: stats
-    content:
-      items:
-        - statistic: "1M+"
-          description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
-          description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
-          description: |
-            Discord community  
-            for support
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
-  - block: features
-    id: features
-    content:
-      title: Features
-      text: Build your site with blocks 🧱
-      items:
-        - name: Optimized SEO
-          icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
-          icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
-          icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
-          icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+  # - block: stats
+  #   content:
+  #     items:
+  #       - statistic: "1M+"
+  #         description: |
+  #           Websites built  
+  #           with Hugo Blox
+  #       - statistic: "10k+"
+  #         description: |
+  #           GitHub stars  
+  #           since 2016
+  #       - statistic: "3k+"
+  #         description: |
+  #           Discord community  
+  #           for support
+  #   design:
+  #     # Section background color (CSS class)
+  #     css_class: "bg-gray-100 dark:bg-gray-900"
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: ["1rem", 0, "1rem", 0]
+  # - block: features
+  #   id: features
+  #   content:
+  #     title: Features
+  #     text: Build your site with blocks 🧱
+  #     items:
+  #       - name: Optimized SEO
+  #         icon: magnifying-glass
+  #         description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
+  #       - name: Fast
+  #         icon: bolt
+  #         description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
+  #       - name: Easy
+  #         icon: sparkles
+  #         description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
+  #       - name: No-Code
+  #         icon: code-bracket
+  #         description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
+  #       - name: Highly Rated
+  #         icon: star
+  #         description: Rated 5-stars by the community.
+  #       - name: Swappable Blocks
+  #         icon: rectangle-group
+  #         description: Build your pages with blocks - no coding required!
   - block: cta-image-paragraph
-    id: solutions
+    id: athletes
     content:
       items:
         - title: Build your future-proof website
@@ -101,22 +101,23 @@ sections:
           button:
             text: Get Started
             url: https://hugoblox.com/templates/
-        - title: Large Community
-          text: Join our large community on Discord - ask questions and get live responses
-          feature_icon: bolt
-          features:
-            - "Dedicated support channel"
-            - "3,000+ users on Discord"
-            - "Share your site and get feedback"
-          # Upload image to `assets/media/` and reference the filename here
-          image: coffee.jpg
-          button:
-            text: Join Discord
-            url: https://discord.gg/z8wNYzb
+        # - title: Large Community
+        #   text: Join our large community on Discord - ask questions and get live responses
+        #   feature_icon: bolt
+        #   features:
+        #     - "Dedicated support channel"
+        #     - "3,000+ users on Discord"
+        #     - "Share your site and get feedback"
+        #   # Upload image to `assets/media/` and reference the filename here
+        #   image: coffee.jpg
+        #   button:
+        #     text: Join Discord
+        #     url: https://discord.gg/z8wNYzb
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
   - block: testimonials
+    id: members
     content:
       title: ""
       text: ""
@@ -130,16 +131,16 @@ sections:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
-  - block: cta-card
-    content:
-      title: Build your future-proof website
-      text: As easy as 1, 2, 3!
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-300"
-        css_style: ""
+  # - block: cta-card
+  #   content:
+  #     title: Build your future-proof website
+  #     text: As easy as 1, 2, 3!
+  #     button:
+  #       text: Get Started
+  #       url: https://hugoblox.com/templates/
+  #   design:
+  #     card:
+  #       # Card background color (CSS class)
+  #       css_class: "bg-primary-300"
+  #       css_style: ""
 ---

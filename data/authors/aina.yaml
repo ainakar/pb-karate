@@ -1,0 +1,30 @@
+slug: "aina"
+name:
+  display: "Aina Me'raj"
+role: "Founder of Politeknik Brunei Karate Club (Intake 10)"
+bio: "Final year School of Computing and Informatics (SCI) undergraduate student at Universiti Teknologi Brunei."
+status:
+  icon: "👩‍💻"
+is_owner: true
+links:
+  - icon: "hero/at-symbol"
+    url: "mailto:aina.kar@outlook.com"
+    label: "Email"
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/aina-hj-mekrat"
+    label: "LinkedIn"
+  - icon: "brands/instagram"
+    url: "https://www.instagram.com/karadoxuous?igsh=cWpyeHBzd2JtZms3"
+    label: "Instagram"
+education:
+  - degree: "Bachelor of Science (Honours) in Computer Networking"
+    institution: "Universiti Teknologi Brunei"
+    start: "2023-07-24"
+    end: ""
+    summary: ""
+languages:
+  - name: "English"
+    level: null
+    label: "Fluent"
+schema: "hugoblox/author/v1"
+weight: null
