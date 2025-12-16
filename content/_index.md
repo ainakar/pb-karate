@@ -23,7 +23,7 @@ sections:
         text: "Welcome!"
         link:
           text: "A word from the club's founder"
-          url: "/blog/"
+          url: "/blog/welcome/"
     design:
     #   spacing:
     #     padding: [0, 0, 0, 0]
@@ -34,7 +34,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: generations.jpg
+          filename: generations.png
           filters:
             brightness: 0.5
           size: cover
