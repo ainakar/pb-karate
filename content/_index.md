@@ -34,7 +34,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: generations.png
+          filename: generations.jpeg
           filters:
             brightness: 0.5
           size: cover
