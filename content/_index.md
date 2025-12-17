@@ -95,14 +95,23 @@ sections:
           features:
             - "Bronze medal for kumite at Interscheme tournament"
             - "Bronze medal for kumite at Shitokai Open (-67kg senior category)"
-            - "Silver medal for kumite in BSRC mini tournament (-67kg senior category)"
             - "Participated in North Borneo Open kumite(-67kg senior category)"
             - "Silver medal for kumite in Rengokai Open (-67kg senior category)"
             - "Participated in 12th SEAKF Brunei Darussalam (-67kg U21 category)"
-            - "Silver medal in kata at BSRC mini tournament"
-            - "Bronze medal in kumite at BSRC mini tournament (-67kg senior category)"
           # Upload image to `assets/media/` and reference the filename here
           image: qays.jpeg
+          # button:
+          #   text: Get Started
+          #   url: https://hugoblox.com/templates/
+        - title: Nurain Najibah binti Md Amir Hairil (Intake 13 July)
+          text: I started my karate journey when I was eight years old under Rengokai Karate, training alongside my mother, who introduced my siblings and me to the sport. Due to unforeseen circumstances, I had to stop for a while, but after entering Politeknik Brunei, I was given the chance to return to karate under Shotokan Karate and rediscover my passion. Along the way, I volunteered at tournaments, competed and won medals, and gained close friends and meaningful memories. Through both the challenges and achievements, karate helped me grow into a more disciplined, resilient, and confident person in my everyday life.
+          feature_icon: trophy
+          features:
+            - "Interscheme Tournament"
+            - "Rengokai Open"
+            - "Chancellor's Trophy 24/25"
+          # Upload image to `assets/media/` and reference the filename here
+          image: ain.jpeg
           # button:
           #   text: Get Started
           #   url: https://hugoblox.com/templates/
