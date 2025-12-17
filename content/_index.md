@@ -19,11 +19,11 @@ sections:
       secondary_action:
         text: Find out more
         url: https://pb-karate.notion.site/Politeknik-Brunei-Karate-Club-6e5aa6c5ee704017b939c3a4e0267aee
-      announcement:
-        text: "Welcome!"
-        link:
-          text: "A word from the club's founder"
-          url: "https://ainakar.github.io/pb-karate/blog/welcome/"
+      # announcement:
+      #   text: "Welcome!"
+      #   link:
+      #     text: "A word from the club's founder"
+      #     url: "https://ainakar.github.io/pb-karate/blog/welcome/"
     design:
     #   spacing:
     #     padding: [0, 0, 0, 0]
@@ -137,7 +137,6 @@ sections:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
   - block: testimonials
-    id: members
     content:
       title: ""
       text: ""
@@ -151,16 +150,16 @@ sections:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
-  # - block: cta-card
-  #   content:
-  #     title: Build your future-proof website
-  #     text: As easy as 1, 2, 3!
-  #     button:
-  #       text: Get Started
-  #       url: https://hugoblox.com/templates/
-  #   design:
-  #     card:
-  #       # Card background color (CSS class)
-  #       css_class: "bg-primary-300"
-  #       css_style: ""
+  - block: cta-card
+    content:
+      title: Welcome to our blogsite!
+      # text: To our blogsite!
+      button:
+        text: A word from the club's founder
+        url: blog/welcome/
+    design:
+      card:
+        # Card background color (CSS class)
+        css_class: "bg-primary-300"
+        css_style: ""
 ---
