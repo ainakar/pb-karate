@@ -93,11 +93,11 @@ sections:
           text: Karate has been life changing for me. From a kid with dreams to competing on an international level representing my country in less than 2 years. Building strength and confidence with every punch, kick and kiai (shout). It has benefitted me in more ways than I could imagine and being able to express myself through martial arts. Every punch thrown with speed, every kick landing with precision and every technique done with intent. Karate has taught me courage, discipline and self-control.
           feature_icon: trophy
           features:
-            - "Bronze medal for kumite at Interscheme tournament"
-            - "Bronze medal for kumite at Shitokai Open (-67kg senior category)"
-            - "Participated in North Borneo Open kumite(-67kg senior category)"
-            - "Silver medal for kumite in Rengokai Open (-67kg senior category)"
-            - "Participated in 12th SEAKF Brunei Darussalam (-67kg U21 category)"
+            - "Bronze medal for kumite at Interscheme Tournament 2023"
+            - "Bronze medal for kumite at Shitokai Brunei Open Karate Championship 2023 (-67kg senior category)"
+            - "Participated in North Borneo Open kumite 2024 (-67kg senior category)"
+            - "Silver medal for kumite in Rengokai Karate Open Championship 2024 (-67kg senior category)"
+            - "Participated in 12th SEAKF Brunei Darussalam 2025 (-67kg U21 category)"
           # Upload image to `assets/media/` and reference the filename here
           image: qays.jpeg
           # button:
@@ -107,26 +107,14 @@ sections:
           text: I started my karate journey when I was eight years old under Rengokai Karate, training alongside my mother, who introduced my siblings and me to the sport. Due to unforeseen circumstances, I had to stop for a while, but after entering Politeknik Brunei, I was given the chance to return to karate under Shotokan Karate and rediscover my passion. Along the way, I volunteered at tournaments, competed and won medals, and gained close friends and meaningful memories. Through both the challenges and achievements, karate helped me grow into a more disciplined, resilient, and confident person in my everyday life.
           feature_icon: trophy
           features:
-            - "Interscheme Tournament"
-            - "Rengokai Open"
-            - "Chancellor's Trophy 24/25"
+            - "Silver medal for kumite at Interscheme Tournament 2023 (-55kg senior category)"
+            - "Gold medal for kumite at Rengokai Karate Open Championship 2024 (+55kg senior category)"
+            - "Silver medal for team kata at Chancellor's Trophy 24/25"
           # Upload image to `assets/media/` and reference the filename here
           image: ain.jpeg
           # button:
           #   text: Get Started
           #   url: https://hugoblox.com/templates/
-        # - title: Large Community
-        #   text: Join our large community on Discord - ask questions and get live responses
-        #   feature_icon: bolt
-        #   features:
-        #     - "Dedicated support channel"
-        #     - "3,000+ users on Discord"
-        #     - "Share your site and get feedback"
-        #   # Upload image to `assets/media/` and reference the filename here
-        #   image: coffee.jpg
-        #   button:
-        #     text: Join Discord
-        #     url: https://discord.gg/z8wNYzb
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -162,7 +150,7 @@ sections:
   - block: cta-card
     content:
       title: Welcome to our blogsite!
-      # text: To our blogsite!
+      text: Discover our journey, one story at a time.
       button:
         text: A word from the club's founder
         url: blog/welcome/
