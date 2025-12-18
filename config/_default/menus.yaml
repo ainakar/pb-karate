@@ -15,6 +15,9 @@ main:
   - name: Our Members
     url: /#members
     weight: 30
+  - name: Welcome
+    url: /#welcome
+    weight: 30
   - name: Resources
     weight: 40
     hasChildren: true

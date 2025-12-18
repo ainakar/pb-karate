@@ -99,7 +99,7 @@ sections:
             - "Silver medal for kumite in Kejohanan Skim Karate 2023 (+55kg)"
             - "Bronze medal for kumite in Kejohanan Sukan Karate Antara Skim Skim 2022 (+55kg)"
           # Upload image to `assets/media/` and reference the filename here
-          image: qays.jpeg
+          image: vivie.jpeg
           button:
             text: About Me
             url: blog/25-12-18/
@@ -115,8 +115,8 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: qays.jpeg
           # button:
-          #   text: Get Started
-          #   url: https://hugoblox.com/templates/
+          #   text: About Me
+          #   url: blog/
         - title: Nurain Najibah binti Md Amir Hairil (Intake 13 July)
           text: I started my karate journey when I was eight years old under Rengokai Karate, training alongside my mother, who introduced my siblings and me to the sport. Due to unforeseen circumstances, I had to stop for a while, but after entering Politeknik Brunei, I was given the chance to return to karate under Shotokan Karate and rediscover my passion. Along the way, I volunteered at tournaments, competed and won medals, and gained close friends and meaningful memories. Through both the challenges and achievements, karate helped me grow into a more disciplined, resilient, and confident person in my everyday life.
           feature_icon: trophy
@@ -127,8 +127,8 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: ain.jpeg
           # button:
-          #   text: Get Started
-          #   url: https://hugoblox.com/templates/
+          #   text: About Me
+          #   url: blog/
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -162,6 +162,7 @@ sections:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
   - block: cta-card
+    id: welcome
     content:
       title: Welcome to our blogsite!
       text: Discover our journey, one story at a time.

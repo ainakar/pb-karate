@@ -1,0 +1,16 @@
+slug: "vivie"
+name:
+  display: "Ruza Vivie Ainaa binti Abdullah"
+role: "Club President 2023/2024 (Intake 12 July)"
+bio: "BEng In Energy Engineering 25/29 at UTB."
+status:
+  icon: "🎓"
+schema: "hugoblox/author/v1"
+weight: null
+links:
+  - icon: "hero/at-symbol"
+    url: "mailto:vivieainaa@gmail.com"
+    label: "Email"
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/vivie-ruben-883a94357/"
+    label: "LinkedIn"

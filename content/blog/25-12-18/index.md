@@ -3,8 +3,8 @@ title: I Joined Karate “Just for Fun”
 summary: I Didn’t Expect It to Change Who I Am.
 date: 2025-12-18
 
-# authors:
-#  - me
+authors:
+ - vivie
 ---
 
 When I was a child, I always dreamed of being able to do a martial art.
