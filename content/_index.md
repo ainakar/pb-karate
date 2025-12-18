@@ -89,12 +89,26 @@ sections:
     id: athletes
     content:
       items:
+        - title: Ruza Vivie Ainaa binti Abdullah (Intake 12 July)
+          text: When I was a child, I dreamed of learning a martial art, seeing it as a simple bucket list goal and something fun to try. That small curiosity led me into karate with no expectations of where the journey would take me. Over time, what began as an interest slowly grew into a passion and a strong sense of drive. Through training, challenges, and moments of self-doubt, karate shaped me both physically and mentally. It taught me discipline, resilience, and the determination to push forward even when progress felt slow. Karate became a tool for self-growth, encouraging me to constantly strive to be a better version of myself. Taking on the role of President of the club added deeper meaning to this journey. Leadership gave me a sense of purpose and responsibility beyond my own development. It taught me how to lead by example, support others, and build a stronger community. Through this role, I learned the importance of humility, consistency, and teamwork. What started as a childhood dream has now become a defining part of who I am today, both on and off the tatami.
+          feature_icon: trophy
+          features:
+            - "Silver medal for kumite in Shitokai Brunei Open Karate Championship 2023 (+55kg)"
+            - "Silver medal for kumite in 20th Sabah State Karate Championship 2023 (+55kg)"
+            - "Silver medal for kumite in Wadokai Open championship 2023 (+55kg)"
+            - "Silver medal for kumite in Kejohanan Skim Karate 2023 (+55kg)"
+            - "Bronze medal for kumite in Kejohanan Sukan Karate Antara Skim Skim 2022 (+55kg)"
+          # Upload image to `assets/media/` and reference the filename here
+          image: qays.jpeg
+          button:
+            text: About Me
+            url: blog/25-12-18/
         - title: Danial Qays bin Haji Suhardy (Intake 13 July)
           text: Karate has been life changing for me. From a kid with dreams to competing on an international level representing my country in less than 2 years. Building strength and confidence with every punch, kick and kiai (shout). It has benefitted me in more ways than I could imagine and being able to express myself through martial arts. Every punch thrown with speed, every kick landing with precision and every technique done with intent. Karate has taught me courage, discipline and self-control.
           feature_icon: trophy
           features:
-            - "Bronze medal for kumite at Interscheme Tournament 2023"
-            - "Bronze medal for kumite at Shitokai Brunei Open Karate Championship 2023 (-67kg senior category)"
+            - "Bronze medal for kumite in Interscheme Tournament 2023"
+            - "Bronze medal for kumite in Shitokai Brunei Open Karate Championship 2023 (-67kg senior category)"
             - "Participated in North Borneo Open kumite 2024 (-67kg senior category)"
             - "Silver medal for kumite in Rengokai Karate Open Championship 2024 (-67kg senior category)"
             - "Participated in 12th SEAKF Brunei Darussalam 2025 (-67kg U21 category)"
@@ -107,9 +121,9 @@ sections:
           text: I started my karate journey when I was eight years old under Rengokai Karate, training alongside my mother, who introduced my siblings and me to the sport. Due to unforeseen circumstances, I had to stop for a while, but after entering Politeknik Brunei, I was given the chance to return to karate under Shotokan Karate and rediscover my passion. Along the way, I volunteered at tournaments, competed and won medals, and gained close friends and meaningful memories. Through both the challenges and achievements, karate helped me grow into a more disciplined, resilient, and confident person in my everyday life.
           feature_icon: trophy
           features:
-            - "Silver medal for kumite at Interscheme Tournament 2023 (-55kg senior category)"
-            - "Gold medal for kumite at Rengokai Karate Open Championship 2024 (+55kg senior category)"
-            - "Silver medal for team kata at Chancellor's Trophy 24/25"
+            - "Silver medal for kumite in Interscheme Tournament 2023 (-55kg senior category)"
+            - "Gold medal for kumite in Rengokai Karate Open Championship 2024 (+55kg senior category)"
+            - "Silver medal for team kata in Chancellor's Trophy 24/25"
           # Upload image to `assets/media/` and reference the filename here
           image: ain.jpeg
           # button:
