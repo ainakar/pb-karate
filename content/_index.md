@@ -19,11 +19,11 @@ sections:
       secondary_action:
         text: Find out more
         url: https://pb-karate.notion.site/Politeknik-Brunei-Karate-Club-6e5aa6c5ee704017b939c3a4e0267aee
-      # announcement:
-      #   text: "Welcome!"
-      #   link:
-      #     text: "A word from the club's founder"
-      #     url: "https://ainakar.github.io/pb-karate/blog/welcome/"
+      announcement:
+        text: "Welcome!"
+        link:
+          text: "Check out our latest blog"
+          url: blog/
     design:
     #   spacing:
     #     padding: [0, 0, 0, 0]
